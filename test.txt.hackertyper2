@@ -1,0 +1,8 @@
+var a = function(msg, error){
+	if(error){
+		console.error(msg);
+	} else {
+		console.log(msg);
+	}
+
+}

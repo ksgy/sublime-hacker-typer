@@ -1,4 +1,5 @@
 [
     { "caption": "HackerTyper: Enable", "command": "hacker_typer", "args": { "enable": true } },
+    { "caption": "HackerTyper: Next", "command": "hacker_typer", "args": { "enable": true, "gotonext": true } },
     { "caption": "HackerTyper: Disable", "command": "hacker_typer", "args": { "enable": false } }
 ]
